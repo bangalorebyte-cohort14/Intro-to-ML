@@ -7,7 +7,7 @@ ML, Data Cleaning/Visualizing
 
 I will asking each of you to present your approach to imputing the means in the "director_facebook_likes" column tomorrow. 
 
-2) There is HW in the Data_Viz_Clean.ipynb 
+2) There is HW in the Data_Viz_Clean.ipynb do only part (2)
 
 
 
